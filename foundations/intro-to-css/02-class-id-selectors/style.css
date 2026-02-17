@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.ganjil {
+    background-color: #ffcccc;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dua {
+    color: #5a76dc;
+    font-size: 36px;
+}
+
+.ganti-font-size {
+    font-size: 24px;
+}
+
+#empat {
+    background-color: #5adc9f;
+    font-weight: bold;
+}
